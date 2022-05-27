@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "c52aad56-2f8d-475d-8dc4-e4b4adbf9a3d",
+		"name": "Assignment API Automation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21192798"
+	},
+	"item": [
+		{
+			"name": "Task 1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://intelliapi-mockserver.herokuapp.com",
+					"protocol": "https",
+					"host": [
+						"intelliapi-mockserver",
+						"herokuapp",
+						"com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Task 2",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
